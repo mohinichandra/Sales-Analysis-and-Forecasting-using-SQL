@@ -22,7 +22,7 @@ Columns: `Order_ID`, `Order_Date`, `Ship_Date`, `Ship_Mode`, `Customer_ID`, `Cus
 3. Top 5 States by sales.
 4. What are the monthly and quarterly sales trends?
 5. What is the running total by year and YoY?
-6. 6. Who are the top 10 customers by revenue?
+6. Who are the top 10 customers by revenue?
 7. Sales % by Category?
 8. Segmenting Products by Sales Range and count the number of products in each segment.
 9. What is the forecast for future sales using moving averages?
