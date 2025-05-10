@@ -11,8 +11,9 @@ Columns: `Order_ID`, `Order_Date`, `Ship_Date`, `Ship_Mode`, `Customer_ID`, `Cus
 2. Data Cleaning - Handling NULLs, duplicates, formatting 
 3. Aggregates - Total Sales, AOV, sales by segment/category  
 4. Window Functions - Running totals, YoY comparisons, ranking    
-5. Time Series - Monthly and quarterly trends, moving averages  
+5. Time Series - Monthly, quarterly trends, and seasonality  
 6. CTEs - For query simplification and modular logic  
+7. Forecasting- Used historical averages to project future sales.
 
 ## Key Business Questions Answered
 
