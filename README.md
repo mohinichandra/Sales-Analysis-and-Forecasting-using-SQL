@@ -35,3 +35,15 @@ Columns: `Order_ID`, `Order_Date`, `Ship_Date`, `Ship_Mode`, `Customer_ID`, `Cus
 14. Evaluate Shipping Modes by Delivery Time.
 15. What is the customer segmentation based on their purchase pattern?
 
+## Final Recommendations
+
+1. Improve delivery methods by promoting shipping modes with a lower average delivery time.
+
+2. Focus on top-performing cities and customers with consistent YoY sales growth.
+
+3. Retarget inactive customers with personalized offers or reminders.
+
+4. Use historical trends for better inventory planning and monthly revenue forecasting.
+
+5. Reevaluate product pricing or promotion strategies for underperforming categories.
+
