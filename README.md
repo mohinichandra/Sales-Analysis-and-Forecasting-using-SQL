@@ -1,6 +1,8 @@
 # Sales-Analysis-and-Forecasting-using-SQL
 This project aims to analyze historical sales data and forecast future sales trends by identifying key metrics, customer behavior, and seasonal patterns. This project helps in understanding business performance and making data-driven decisions.
 
+# Data-Link : https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
 ## Dataset Used
 
 Table: `dbo.Sales_data`  
